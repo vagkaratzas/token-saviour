@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "token-saviour",
+  "description": "Spend tokens where they matter: one benchmark-picked tool per token layer.",
+  "owner": {
+    "name": "Evangelos Karatzas",
+    "url": "https://github.com/vagkaratzas"
+  },
+  "plugins": [
+    {
+      "name": "token-saviour",
+      "description": "Routes code reads to serena, noisy commands to rtk, chatty prose to caveman, and code generation to Ponytail — the best measured combination (−70% tokens) from a 9-tool benchmark.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

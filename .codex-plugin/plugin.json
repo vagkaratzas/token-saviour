@@ -1,0 +1,27 @@
+{
+  "name": "token-saviour",
+  "version": "1.0.0",
+  "description": "Route every coding task to the most token-efficient tool per layer: serena (code reads), rtk (command output), caveman (prose output), Ponytail (code output) — backed by a 9-tool benchmark.",
+  "author": {
+    "name": "Evangelos Karatzas",
+    "url": "https://github.com/vagkaratzas"
+  },
+  "homepage": "https://github.com/vagkaratzas/token-saviour",
+  "repository": "https://github.com/vagkaratzas/token-saviour",
+  "license": "MIT",
+  "keywords": ["tokens", "context", "efficiency", "cost", "productivity"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "token-saviour",
+    "shortDescription": "Spend tokens where they matter",
+    "longDescription": "Four token layers, one benchmark-picked tool each: serena for code reads, rtk for command output, caveman for prose output, Ponytail for generated code. Stacked: −70% measured.",
+    "developerName": "Evangelos Karatzas",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/vagkaratzas/token-saviour",
+    "defaultPrompt": [
+      "Use token-saviour to plan the cheapest way to do this task.",
+      "Which token layer is this task stressing, and which tool should I use?"
+    ]
+  }
+}

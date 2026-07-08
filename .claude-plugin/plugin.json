@@ -1,0 +1,13 @@
+{
+  "name": "token-saviour",
+  "version": "1.0.0",
+  "description": "Route every coding task to the most token-efficient tool per layer: serena (code reads), rtk (command output), caveman (prose output), Ponytail (code output) — backed by a 9-tool benchmark.",
+  "author": {
+    "name": "Evangelos Karatzas",
+    "url": "https://github.com/vagkaratzas"
+  },
+  "homepage": "https://github.com/vagkaratzas/token-saviour",
+  "repository": "https://github.com/vagkaratzas/token-saviour",
+  "license": "MIT",
+  "keywords": ["tokens", "context", "efficiency", "cost", "productivity"]
+}
