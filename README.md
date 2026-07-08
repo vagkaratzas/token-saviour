@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <img src="assets/logo.png" width="220" alt="Protect thy tokens">
+  </picture>
+</p>
+
 # token-saviour
 
 **Spend tokens where they matter.** An agent skill that routes every coding task to the most
