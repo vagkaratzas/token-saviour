@@ -45,6 +45,7 @@ cp -r token-saviour/skills/token-saviour ~/.claude/skills/
 
 ```bash
 codex plugin marketplace add vagkaratzas/token-saviour
+codex plugin add token-saviour@token-saviour
 ```
 
 In Codex the skill is invoked with `@token-saviour`. The VS Code Codex extension and the Codex
